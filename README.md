@@ -12,7 +12,7 @@ simple mod, Adjust Control Bar. Make it Scrollable. Original Author's Patreon is
 
 ### v1.3
 
-This fork of the original module should be compatibile and work with Foundry VTT v10.
+This fork of the original module should be compatibile and work with Foundry VTT v12.
 
 ### v1.2.3
 
